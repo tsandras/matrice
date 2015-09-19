@@ -1,0 +1,35 @@
+body {
+  margin: 10px;
+}
+
+.nm-matrice input {
+  width: 45px;
+}
+
+.matrice input {
+  width: 45px;
+}
+
+.select-type label {
+  display: inline-block;
+}
+
+#select-colonne-ligne label {
+  display: inline-block;
+}
+
+#select-values label {
+  display: inline-block;
+}
+
+#show-solution {
+  font-size: 20px;
+}
+
+#separation {
+  height: 50px;
+}
+
+#exercice1 {
+  /*border: 1px solid #000;*/
+}
